@@ -1,5 +1,5 @@
 # DataHack
 
-Predicting Vaccine Uptake: A Multilabel Classification Approach for XYZ and Seasonal Flu Vaccines
+This submission is by Gurzafar Singh for Week 3 Hackathon as a part of Summer Analytics 2024 conducted by Consulting and Analytics Club, IIT Guwahati.
 
-This project aims to predict individuals' likelihood of receiving both XYZ and seasonal flu vaccines using a dataset encompassing demographic, behavioral, and opinion-based features. Employing machine learning techniques such as RandomForestClassifier within a MultiOutputClassifier framework, the model is trained to predict probabilities rather than binary outcomes. Evaluation is based on ROC AUC scores, ensuring robust performance assessment for each vaccine category independently. The results are formatted for submission, aligning with competition requirements for multilabel prediction tasks.
+The goal was to predict how likely is a person to get an xyz vaccine and a seasonal flu vaccine.
